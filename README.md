@@ -5,7 +5,7 @@ This project was made by following Dev Ed's react course, with some of my person
 ![alt text](https://i.ibb.co/VtT4JPc/image.png "Vibes music web application")
 ![alt text](https://i.ibb.co/CtSvzvd/image.png "Vibes music web application with libraries")
 
-## Test it out yourself!
+## Test
 
 https://wilson-react-music-player.vercel.app/
 
